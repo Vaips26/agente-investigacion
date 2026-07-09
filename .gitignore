@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.pnpm-store/
+
+# Pruebas que ya no necesitas
+backend/prueba_tavily.py
+backend/prueba_groq.py
+backend/prueba_completa.py
+backend/agente.py
